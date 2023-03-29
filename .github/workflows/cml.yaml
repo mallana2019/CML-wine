@@ -1,3 +1,4 @@
+#start
 name: model-training
 on: [push]
 jobs:
